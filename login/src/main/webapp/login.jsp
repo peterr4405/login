@@ -15,7 +15,7 @@
             <fieldset id='label'>
                 <font size='6' color='white'>Login</font><br/><br/><br/>
                 <b>User:</b><input type="text" placeholder="帳號" name="username" value="" /><p/><br/><br/>
-                <b>Pass:</b><input type="text" placeholder="密碼" name="password" value="" /><p/><br/><br/><br/><br/>
+                <b>Pass:</b><input type="password" placeholder="密碼" name="password" value="" /><p/><br/><br/><br/><br/>
                 <input type="submit"  class="pure-button pure-button-primary" value="Login" id='button'/>
             </fieldset>
             </table>
